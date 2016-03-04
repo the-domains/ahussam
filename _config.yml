@@ -1,0 +1,28 @@
+name: ahussam
+favicon: null
+layout_spectrum: 0.845512832980603
+typography_spectrum: 0.04273632331751287
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9425482610240579
+  lightness: 0.9612759500741959
+  saturation: 0.6078559139277786
+  rhythmicContrast: 0.49502232065424323
+purpose: []
