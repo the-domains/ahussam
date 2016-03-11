@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ahmed Hussam]]></title>
         <description><![CDATA[Ahmed Hussam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ahussam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:45:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 12:44:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ahussam/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Social Media Consultant, Designer, Developer, Photographer, DigitalBoom and TutsPlus Author, Adobe User Group Manager, Hootsuite EMEA Ambassador, GettyImages Ambassador.</p>]]></description>
-            <link>undefined205fc44a-1dfe-47cf-b54c-8f70da02f207/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9f4e836-ede0-4085-b7c9-bced639dec8c.jpg">]]></description>
+            <link>https://thegrid.ai/ahussam/205fc44a-1dfe-47cf-b54c-8f70da02f207/index.html</link>
             <guid isPermaLink="false">205fc44a-1dfe-47cf-b54c-8f70da02f207</guid>
-            <pubDate>Fri, 04 Mar 2016 00:45:07 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 12:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
